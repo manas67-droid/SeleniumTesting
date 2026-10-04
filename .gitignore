@@ -1,0 +1,31 @@
+# Compiled Java class files
+*.class
+bin/
+target/
+build/
+out/
+
+# Dependency archives & JARs
+*.jar
+*.zip
+*.tar.gz
+lib/
+downloads/
+
+# IDE & Editor files
+.metadata/
+.settings/
+.project
+.classpath
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# OS and Temporary files
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
+*.tmp
