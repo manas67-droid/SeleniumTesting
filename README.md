@@ -45,9 +45,9 @@ This repository demonstrates an end-to-end automated UI testing framework using 
 | Member | Assigned Module | Git Branch | Core Test Classes | Status |
 |---|---|---|---|:---:|
 | **Manas (Lead)** | **Login & Authentication** | `login-testing` | `LoginValidTest`, `LoginInvalidTest`, `LoginEmptyCredentialsTest`, `LoginLockedOutTest` | **Completed ✅** |
-| **Teammate 2** | **Product Catalog & Search/Sort** | `search-testing` | `ProductListTest`, `SearchSortTest` | In Progress 🔄 |
-| **Teammate 3** | **Shopping Cart** | `cart-testing` | `CartAddRemoveTest`, `CartBadgeCounterTest` | In Progress 🔄 |
-| **Teammate 4** | **Checkout & Payment** | `checkout-testing` | `CheckoutValidationTest`, `OrderPlacementTest` | In Progress 🔄 |
+| **Arpita Singh** | **Product Catalog & Search/Sort** | `search-testing` | `ProductListTest`, `SearchSortTest` | In Progress 🔄 |
+| **Aryan Chaudhary** | **Shopping Cart** | `cart-testing` | `CartAddRemoveTest`, `CartBadgeCounterTest` | In Progress 🔄 |
+| **Jyoti Gupta** | **Checkout & Payment** | `checkout-testing` | `CheckoutValidationTest`, `OrderPlacementTest` | In Progress 🔄 |
 
 ---
 
