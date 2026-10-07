@@ -1,4 +1,4 @@
-# 🚀 SauceDemo Selenium Test Automation Suite
+# 🚀 OrangeHRM
 
 An enterprise-grade, maintainable Selenium WebDriver test automation suite built in Java for the **SauceDemo (Swag Labs)** e-commerce web application. Developed as a collaborative team project adhering to industry best practices, Git feature branching, and strict QA test tracking.
 
